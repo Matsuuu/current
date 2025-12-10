@@ -1,0 +1,14 @@
+packages:
+    - lib/*
+    - lib/*
+    - demo
+
+catalogs:
+    default:
+        prettier: 3.7.4
+        vite: ^7.2.7
+    frontend:
+        "@tailwindcss/vite": ^4.1.17
+        lit: ^3.3.1
+        suunta: ^4.8.0
+        tailwindcss: ^4.1.17

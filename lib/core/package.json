@@ -1,0 +1,23 @@
+{
+    "name": "core",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "vite"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "devDependencies": {
+        "prettier": "catalog:",
+        "vite": "catalog:"
+    },
+    "dependencies": {
+        "@tailwindcss/vite": "catalog:frontend",
+        "lit": "catalog:frontend",
+        "suunta": "catalog:frontend",
+        "tailwindcss": "catalog:frontend"
+    }
+}

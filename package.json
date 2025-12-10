@@ -1,0 +1,26 @@
+{
+    "name": "current",
+    "version": "1.0.0",
+    "description": "Frameworkless JavaScript Mobile App Development Toolkit",
+    "main": "index.js",
+    "scripts": {
+        "build": "pnpm -r build",
+        "start": "pnpm -r start",
+        "format": "prettier . --write"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Matsuuu/current.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/Matsuuu/current/issues"
+    },
+    "homepage": "https://github.com/Matsuuu/current#readme",
+    "dependencies": {
+        "prettier": "catalog:"
+    }
+}
