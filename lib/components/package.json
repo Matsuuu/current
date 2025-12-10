@@ -17,6 +17,7 @@
     "dependencies": {
         "@tailwindcss/vite": "catalog:frontend",
         "lit": "catalog:frontend",
+        "lucide": "^0.559.0",
         "suunta": "catalog:frontend",
         "tailwindcss": "catalog:frontend"
     }
